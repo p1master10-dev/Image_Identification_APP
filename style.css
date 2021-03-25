@@ -1,0 +1,61 @@
+.box label{
+    font-weight: bold;
+}
+
+.box{
+    background-color: blanchedalmond;
+    width: 45%;
+    height: 90%;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 5px 5px 18px grey;
+}
+
+#box_2{
+    margin-bottom: 10px;
+    line-height: 10px;
+    padding-top: 7px;
+}
+
+#box_1{
+    line-height: 10px;
+    margin-bottom: 10px;
+    padding-top: 7px;
+}
+
+.output_li{
+    margin-bottom: 8px;
+    font-size: large;
+}
+
+#box_4{
+    margin-bottom: 10px;
+    padding-bottom: 65px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+#azure_li{
+    margin-top: auto;
+}
+    
+.results_show{
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 25px;
+}
+
+.white {
+    color: grey;
+}
+
+.image_cls {
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px white;
+}
+
+#box_3 {
+    padding-bottom: 65px;
+}
