@@ -65,5 +65,5 @@ h2 {
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
-    position: fixed;
+    position: sticky;
 }
