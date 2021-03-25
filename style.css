@@ -59,3 +59,8 @@
 #box_3 {
     padding-bottom: 65px;
 }
+
+h3 {
+    background-color: lightgrey;
+    width: 100%;
+}
